@@ -1,0 +1,9 @@
+**/__pycache__
+**/*.code-workspace
+**/.ipynb_checkpoints
+**/datasets
+**/data
+**/build
+*.egg-info
+junk
+*.pkl

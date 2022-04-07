@@ -1,0 +1,14 @@
+name: kernel
+channels:
+  - conda-forge
+dependencies:
+  - autopep8
+  - numpy
+  - ipykernel
+  - scipy
+  - matplotlib
+  - pandas
+  - joblib
+  - scikit-learn
+  - cvxopt
+  - tqdm
