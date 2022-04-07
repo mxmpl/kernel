@@ -4,7 +4,7 @@ Maxime Poli, Clarine Vongpaseut
 
 ## Installation
 
-The `environment.yml` file contains the dependencies: `numpy`, `scipy`, `joblib`, `cvxpot` and `tqdm` are explicitely used here, and `scikit-learn` in use in `main.py` to do the cross-validation.
+The `environment.yml` file contains the dependencies: `numpy`, `scipy`, `joblib`, `cvxpot` and `tqdm` are explicitely used here, and `scikit-learn` is used in `main.py` to do the cross-validation.
 You can use `pip` to install this repository as a Python package:
 
 ```bash
